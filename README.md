@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there! 👋 I'm P.W.M.H. Polkotuwa
 
 <!--
-**madhawapolkotuwa/madhawapolkotuwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a **System Development Engineer** with over **five years of experience** delivering innovative software and embedded system solutions across industries like automotive, smart home, and industrial systems.  
 
 Here are some ideas to get you started:
 
