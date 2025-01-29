@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm P.W.M.H. Polkotuwa
 
-Welcome to my GitHub! I'm a **System Development Engineer** with over **five years of experience** delivering innovative software and embedded system solutions across industries like automotive, smart home, and industrial systems.  
+Welcome to my GitHub! I'm a **System Development Engineer**  delivering innovative software and embedded system solutions across industries like automotive, smart home, and industrial systems.  
 
 ---
 
