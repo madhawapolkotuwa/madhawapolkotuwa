@@ -13,7 +13,9 @@ Welcome to my GitHub! I'm a **System Development Engineer** with over **five yea
 
 ## 🚀 My Expertise  
 ### Programming Languages  
-- **C | C++ | C# | Python | TypeScript**  
+- **C | C++ | C# | Python | TypeScript**
+  ## 🧑‍💻 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhawapolkotuwa&layout=compact)
 ### Frameworks & Tools  
 - **React** | **WPF** | **Windows Forms** | **MFC** | **ASP.NET Core**  
 ### Platforms  
