@@ -17,9 +17,9 @@ Welcome to my GitHub! I'm a **System Development Engineer**  delivering innovati
   ## 🧑‍💻 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhawapolkotuwa&layout=compact)
 ### Frameworks & Tools  
-- Embedded Systems **TouchGFX** | **LVGL(SquareLineStudio)** | **Qt**
-- Windows  **WPF** | **Windows Forms** | **MFC** | **ASP.NET Core**
-- Webapp **React** | **Anguler**
+- Embedded: **TouchGFX** | **LVGL(SquareLineStudio)** | **Qt**
+- Windows:  **WPF** | **Windows Forms** | **MFC** | **ASP.NET Core**
+- Web:  **React** | **Anguler**
 ### Platforms  
 - **Windows | Linux | QNX RTOS**  
 ### Databases  
