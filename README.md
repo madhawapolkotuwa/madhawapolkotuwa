@@ -63,19 +63,15 @@ Welcome to my GitHub! I'm a **System Development Engineer**  delivering innovati
 | [🔗 **Getting Started with MicroPython on STM32**](https://youtu.be/yHrwD_o-vhE)    | how to setting up MicroPython on the STM32F4 Discovery (STM32F429I-DISCO) board. | MicroPython   |
 | [🔗 **TouchGFX STM32**](https://youtu.be/fmrhop5ymxg)    |  how to create a simple GUI application using TouchGFX on the STM32F429 Discovery board. | C/C++, TouchGFX,  STM32CubeIDE  |
 | [🔗 **LVGL Custom UI on Raspberry Pi**](https://youtu.be/xXNj7RcpGss)    |   building a custom E-Bike GUI on a Raspberry Pi, using LVGL and SquareLine Studio. | C, LVGL, SquareLineStudio  |
-
 | [🔗 **Chromium Embedded Framework (CEF) Project on Windows 11**](https://youtu.be/goAkhSHarWE)    |  example project for the Chromium Embedded Framework (CEF) on a Windows 11 PC. | CEF  |
 | [🔗 **Build a Qt Application Using Visual Studio Code**](https://youtu.be/j2Gfkrajb1M)    |  process of setting up and building a Qt application using VS Code. | C++, Qt , Vs Code  |
-
-| [🔗 **2048 Game with SDL3**](https://youtu.be/SGGJD4EbdJg)                       | A fun clone of the 2048 game built using SDL3 and C++. Cross-platform support included.                  | C++, SDL3                 |
-| [🔗 **Real-Time Oscilloscope with SDL and ImGui**](https://github.com/madhawapolkotuwa/Oscilloscope_Demo_with_SDL3)  | simple efficient real-time oscilloscope using SDL3 for rendering and Dear ImGui for the GUI controls.    | C++, SDL3 , ImGui                |
-| [🔗 **Tic Tac Toe Game with Dear ImGui**](https://youtu.be/SGGJD4EbdJg)                       | Tic Tac Toe game interface using the powerful Dear ImGui library.                  | C++, ImGui                 |
-
-| [🔗 **WPF Router Navigation System**](https://youtu.be/hkv1_Y5gi6I)  | A lightweight, MVVM-friendly router-based navigation framework for WPF applications.                     | C#, WPF, MVVM             |
-| [🔗 **WPF Notification Service Library | Nuget**](https://youtu.be/leP_EuEThrk)  | powerful library to enhance WPF applications with customizable notifications.                     | C#, WPF, MVVM , NuGet          |
-| [🔗 **WPF Loading Animation | Nuget**](https://youtu.be/pHDCdh_Lbck)  | Loading Animations Nuget package for WPF applications.                     | C#, WPF, MVVM , NuGet            |
-| [🔗 **WPF Virtual Keyboard and Keypad | Nuget**](https://github.com/madhawapolkotuwa/MpCoding.WPF.VirtualKeybordKeypad)  | Virtual Keyboard and Keypad Nuget package for WPF applications.                     | C#, WPF, MVVM , NuGet            |
-
+| [🔗 **2048 Game with SDL3**](https://youtu.be/SGGJD4EbdJg)                       | A fun clone of the 2048 game built using SDL3 and C++. Cross-platform support included.    | C++, SDL3  |
+| [🔗 **Real-Time Oscilloscope with SDL and ImGui**](https://github.com/madhawapolkotuwa/Oscilloscope_Demo_with_SDL3)  | simple efficient real-time oscilloscope using SDL3 for rendering and Dear ImGui for the GUI controls.    | C++, SDL3 , ImGui  |
+| [🔗 **Tic Tac Toe Game with Dear ImGui**](https://youtu.be/SGGJD4EbdJg)                       | Tic Tac Toe game interface using the powerful Dear ImGui library.       | C++, ImGui |
+| [🔗 **WPF Router Navigation System**](https://youtu.be/hkv1_Y5gi6I)  | A lightweight, MVVM-friendly router-based navigation framework for WPF applications.   | C#, WPF, MVVM  |
+| [🔗 **WPF Notification Service Library | Nuget**](https://youtu.be/leP_EuEThrk)  | powerful library to enhance WPF applications with customizable notifications.   | C#, WPF, MVVM , NuGet |
+| [🔗 **WPF Loading Animation | Nuget**](https://youtu.be/pHDCdh_Lbck)  | Loading Animations Nuget package for WPF applications.   | C#, WPF, MVVM , NuGet  |
+| [🔗 **WPF Virtual Keyboard and Keypad | Nuget**](https://github.com/madhawapolkotuwa/MpCoding.WPF.VirtualKeybordKeypad)  | Virtual Keyboard and Keypad Nuget package for WPF applications.  | C#, WPF, MVVM , NuGet  |
 | [🔗 **Online TicTacToe Game with SignalR and React**](https://youtu.be/goKqTh4tk04)  | online TicTacToe game from scratch using SignalR for real-time communication and React for the frontend interface.   | C#, ASP.Net API , React , Typescript , SQL DB |
 | [🔗 **LDAP User Control Program with Asp net API & Angular**](https://youtu.be/9eXFfEKfLnU)  | LDAP user management with our comprehensive tutorial on building a sophisticated LDAP User Control Program.   | C#, ASP.Net API , Angular , LDAP DB  |
 | [🔗 **PLC Real-Time Control & Monitor using Web Application (SLMP) (Mitsubishi PLC)**](https://youtu.be/e1HpK0Os1Pw)  | system to control Mitsubishi PLC using a web application and achieved real-time monitoring of the PLC data.   | C#, ASP.Net API , Angular , SLMP  |
