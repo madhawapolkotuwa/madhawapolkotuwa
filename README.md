@@ -17,13 +17,15 @@ Welcome to my GitHub! I'm a **System Development Engineer**  delivering innovati
   ## 🧑‍💻 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhawapolkotuwa&layout=compact)
 ### Frameworks & Tools  
-- **React** | **WPF** | **Windows Forms** | **MFC** | **ASP.NET Core**  
+- Embedded Systems **TouchGFX** | **LVGL(SquareLineStudio)** | **Qt**
+- Windows  **WPF** | **Windows Forms** | **MFC** | **ASP.NET Core**
+- Webapp **React** | **Anguler**
 ### Platforms  
 - **Windows | Linux | QNX RTOS**  
 ### Databases  
 - **SQL Server | LDAP Server**  
 ### Real-Time Systems  
-- Embedded systems, signal processing, and data transmission protocols (CAN Bus, SPI, Ethernet/IP).  
+- Embedded systems, signal processing, and data transmission protocols (CAN Bus, I2C, UART, SPI, Ethernet/IP, etc).  
 
 ---
 
@@ -49,6 +51,9 @@ Welcome to my GitHub! I'm a **System Development Engineer**  delivering innovati
   - Optimized algorithms for noise reduction and stability.  
   - Implemented advanced data visualization.
 
+### 4. **Metal Detection Machine UI**
+- **Description**: System Control GUI development with STM32F7 MCU & "Qt for MCU"
+- **Tech Stack**: C++, QML.
 ---
 
 ## ✨ Featured Content  
