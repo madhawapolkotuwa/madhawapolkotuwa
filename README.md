@@ -58,6 +58,7 @@ Welcome to my GitHub! I'm a **System Development Engineer**  delivering innovati
 
 | Project                                                                                        | Description                                                                                              | Technologies              |
 | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [🔗 **LVGL STM32F4 UI Template**]([https://youtu.be/ArRN7JFltDU](https://github.com/madhawapolkotuwa/Qt_Qml_DrinkBar/tree/main)) | Qt Qml Application (Drink Bar). | Qt, Qml, C++ |
 | [🔗 **LVGL STM32F4 UI Template**](https://youtu.be/ArRN7JFltDU)    | A starter UI project for STM32F4 MCUs using LVGL and SquareLine Studio. Great for embedded UI prototyping. | C, LVGL, STM32CubeIDE, SquareLineStudio   |
 | [🔗 **External SDRAM on STM32**](https://youtu.be/0ah8c4umVr0)    | how to correctly configure and use external SDRAM with STM32, using the STM32F429 Discovery board and the IS42S16400J-7 SDRAM chip. | C, STM32CubeIDE   |
 | [🔗 **Getting Started with MicroPython on STM32**](https://youtu.be/yHrwD_o-vhE)    | how to setting up MicroPython on the STM32F4 Discovery (STM32F429I-DISCO) board. | MicroPython   |
