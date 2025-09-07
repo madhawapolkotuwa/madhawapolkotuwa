@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm a **System Development Engineer**  delivering innovati
   - Delivered a unified HMI system with C# WPF.
   - Machine CPU software update (Main board SH MCU) .    
   - Enabled real-time communication between PC and PLC unsing EtherNet/IP.
-  - CAN bus comunication with NTX Machine through the PLC.
+  - CAN bus communication with NTX Machine through the PLC.
 
 ### 2. **Superconductor Detection Machine (SQUID System)**  
 - **Description**: Designed a detection system for metallic contamination and foreign matter using superconducting sensors.  
