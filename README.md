@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a **System Development Engineer**  delivering innovati
 ### Platforms  
 - **Windows | Linux | QNX RTOS | FreeRTOS | ZephyrProject**  
 ### Databases  
-- **SQL | SQL Lite | LDAP **  
+- **SQL | SQL Lite | LDAP**  
 ### Real-Time Systems  
 - Embedded systems, signal processing, and data transmission protocols (CAN Bus, I2C, UART, SPI, Ethernet/IP, etc).  
 
@@ -62,7 +62,7 @@ Welcome to my GitHub! I'm a **System Development Engineer**  delivering innovati
 
 | Project or repo                                              | Video                                    | Description                                                                                              | Technologies              |
 | -----------------------------------------------------|----------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [🔗 **Linux Driver Development with Raspberry Pi**](https://github.com/madhawapolkotuwa/linux_driver_development_with_raspberrypi) | [![Youtube Video](https://img.youtube.com/vi/ST6lB8ytGTI/0.jpg)](https://www.youtube.com/watch?v=ST6lB8ytGTI/) | Linux Driver Development with Raspberry Pi — Full Tutorial Series | Linux Device Driver, C |
+| [🔗 **Linux Driver Development with Raspberry Pi**](https://github.com/madhawapolkotuwa/linux_driver_development_with_raspberrypi) | [![Youtube Video](https://img.youtube.com/vi/ST6lB8ytGTI/0.jpg)](https://www.youtube.com/watch?v=ST6lB8ytGTI/) | Linux Device Driver Development with Raspberry Pi — Full Tutorial Series | Linux Device Driver, C |
 | [🔗 **Synchronization Primitives in FreeRTOS**](https://github.com/madhawapolkotuwa/Synchronization_Primitives_in_FreeRTOS) | [![Youtube Video](https://img.youtube.com/vi/cdcLoYO5OAY/0.jpg)](https://www.youtube.com/watch?v=cdcLoYO5OAY) | Synchronization Primitives in FreeRTOS (YouTube video series). | FreeRTOS, C, STM32 |
 | [🔗 **Qt App Drink Bar(Qt for MCU)**](https://github.com/madhawapolkotuwa/DrinksBar_Qt_for_MCU) | [![Youtube Video](https://img.youtube.com/vi/7Y5nrDg19DA/0.jpg)](https://www.youtube.com/watch?v=7Y5nrDg19DA) | Qt for MCU with STM32 (Drink Bar). | Qt(QUL), Qml, C/C++, STM32 |
 | [🔗 **Qt App Drink Bar**](https://github.com/madhawapolkotuwa/DrinkBar) | [![Youtube Video](https://img.youtube.com/vi/7P5NRAjkKvM/0.jpg)](https://www.youtube.com/watch?v=7P5NRAjkKvM) | Qt Qml Application (Drink Bar). | Qt, Qml, C++ |
