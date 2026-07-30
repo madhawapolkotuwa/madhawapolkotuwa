@@ -1,11 +1,62 @@
+# Hi there, I'm Madhawa Polkotuwa 👋 
 
+I am a Software Developer passionate about low-level programming, embedded systems, and Linux device driver development. I love breaking down complex hardware and kernel-level concepts into practical, easy-to-follow tutorials for the developer community.
+
+---
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhawapolkotuwa&layout=compact)
 
 
+
+## 📺 Featured YouTube Tutorials
+
+I run [MP Coding](https://www.youtube.com/@MP-Coding/videos), a YouTube channel dedicated to bare-metal programming, Linux device drivers, and advanced software engineering concepts. 
+
+Check my projects & tutorials list below: [Projects and Tutorials](#projects-and-tutorials)
+
+▶️ **[Subscribe to MP Coding on YouTube](https://www.youtube.com/@MP-Coding/videos)** to stay updated with my weekly coding guides!
+
+---
+
+## ✍️ Technical Writing on Medium
+
+When I'm not writing code or filming tutorials, I write comprehensive, step-by-step articles to help developers master core engineering principles.
+
+📚 **[Read my latest deep-dives on Medium](https://medium.com/@madhawapolkotuwa)**
+
+---
+
+## 🛠️ Tech Stack & Focus Areas
+
+* **Languages Low-Level:** C, Assembly
+* **Languages High-Level:** C++, C#, Python, Rust, TypeScript
+* **Embedded Ecosystems:** STM32, dsPIC, Renesas, NXP, AVR, Arduino, ESP32, Raspberry Pi, Radxa, ..
+* **Kernel Development:** Linux Device Drivers, Device Trees, Subsystems (SPI/I2C), Synchronization (Spinlocks, Mutexes, Completions), ..
+* **Web Tech (Fun Side Projects):** SignalR, React
+* **Data Base:** SQL, SQLite, LDAP
+
+---
+
+## 🤝 Connect With Me
+
+* **YouTube:** [MP Coding](https://www.youtube.com/@MP-Coding/videos)
+* **Medium:** [@madhawapolkotuwa](https://medium.com/@madhawapolkotuwa)
+* **GitHub:** [@madhawapolkotuwa](https://github.com/madhawapolkotuwa)
+* **Support My Work:** [Buy Me A Coffee](https://buymeacoffee.com/madhawapolb)
+
+*Feel free to explore my repositories, open an issue, or reach out if you want to collaborate on embedded software or Linux kernel projects!*
+
+---
+
+## Projects and Tutorials
+
 | Project or repo                                              | Video                                    | Description                                                                                              | Technologies              |
 | -----------------------------------------------------|----------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [🔗 **Linux Driver Development with Raspberry Pi**](https://github.com/madhawapolkotuwa/linux_driver_development_with_raspberrypi) | [![Youtube Video](https://img.youtube.com/vi/ST6lB8ytGTI/0.jpg)](https://www.youtube.com/watch?v=ST6lB8ytGTI/) | Linux Device Driver Development with Raspberry Pi — Full Tutorial Series | Linux Device Driver, C |
+| [🔗 **Linux Driver Development with Raspberry Pi**](https://github.com/madhawapolkotuwa/linux_driver_development_with_raspberrypi) | [![Youtube Video](https://img.youtube.com/vi/ST6lB8ytGTI/0.jpg)](https://www.youtube.com/watch?v=ST6lB8ytGTI/) | Linux Device Driver Development with Raspberry Pi - Full Tutorial Series | Linux Device Driver, C |
+| [🔗 **STM32F7 QSPI Flash Setup & Test**](https://github.com/madhawapolkotuwa/stm32f_qspi_flash_setup) | - | QSPI-Flash configuration on the STM32F7 & Tests | STM32, QSPI-Flash , C |
+| [🔗 **STM32F7 SDRAM: FMC Setup, Timing Calculations & Live Memory Test**](https://github.com/madhawapolkotuwa/stm32f7_sdram_test) | [![Youtube Video](https://img.youtube.com/vi/YhruBSZY0TM/0.jpg)](https://www.youtube.com/watch?v=YhruBSZY0TM/) | Build, from a bare MCU, a working FMC/SDRAM read-write tests | STM32, SDRAM , C |
+| [🔗 **Arduino Bare-Metal Programming with C - No IDE**](https://github.com/madhawapolkotuwa/atmega328p-bare-metal-tutorial-series) | [![Youtube Video](https://img.youtube.com/vi/wFreyt5SzUY/0.jpg)](https://www.youtube.com/watch?v=wFreyt5SzUY/) | programming the Arduino Uno (ATmega328P) directly at the register level. no Arduino IDE, no Arduino core library | Arduino, AVR , C, Assembly |
+| [🔗 **dsPIC33 PWM**](https://github.com/madhawapolkotuwa/dsPIC33_PWM) <br>[🔗 **dsPIC33 RGB LED With PWM**](https://github.com/madhawapolkotuwa/dsPIC33_RGB_LED_With_SCCP_PWM) <br> [🔗 **dsPIC33 RGB LED with HSPWM**](https://github.com/madhawapolkotuwa/dsPIC33_RGB_LED_with_HSPWM)  | [![Youtube Video](https://img.youtube.com/vi/pBUo0OMiJnQ/0.jpg)](https://www.youtube.com/watch?v=pBUo0OMiJnQ/) | dsPIC33 PWM, Examples | dsPIC, PWM, C |
 | [🔗 **Synchronization Primitives in FreeRTOS**](https://github.com/madhawapolkotuwa/Synchronization_Primitives_in_FreeRTOS) | [![Youtube Video](https://img.youtube.com/vi/cdcLoYO5OAY/0.jpg)](https://www.youtube.com/watch?v=cdcLoYO5OAY) | Synchronization Primitives in FreeRTOS (YouTube video series). | FreeRTOS, C, STM32 |
 | [🔗 **Qt App Drink Bar(Qt for MCU)**](https://github.com/madhawapolkotuwa/DrinksBar_Qt_for_MCU) | [![Youtube Video](https://img.youtube.com/vi/7Y5nrDg19DA/0.jpg)](https://www.youtube.com/watch?v=7Y5nrDg19DA) | Qt for MCU with STM32 (Drink Bar). | Qt(QUL), Qml, C/C++, STM32 |
 | [🔗 **Qt App Drink Bar**](https://github.com/madhawapolkotuwa/DrinkBar) | [![Youtube Video](https://img.youtube.com/vi/7P5NRAjkKvM/0.jpg)](https://www.youtube.com/watch?v=7P5NRAjkKvM) | Qt Qml Application (Drink Bar). | Qt, Qml, C++ |
@@ -26,16 +77,4 @@
 | [🔗 **Online TicTacToe Game with SignalR and React**](https://github.com/madhawapolkotuwa/TicTactToeApp_Online_With_SiganR-ReactTs) | [![Youtube Video](https://img.youtube.com/vi/goKqTh4tk04/0.jpg)](https://www.youtube.com/watch?v=goKqTh4tk04) | online TicTacToe game from scratch using SignalR for real-time communication and React for the frontend interface.   | C#, ASP.Net API , React , Typescript , SQL DB |
 | [🔗 **LDAP User Control Program with Asp net API & Angular**](https://github.com/madhawapolkotuwa/LDAP-User-Control-Program-with-Asp.net-API-Angular) | [![Youtube Video](https://img.youtube.com/vi/9eXFfEKfLnU/0.jpg)](https://www.youtube.com/watch?v=9eXFfEKfLnU) | LDAP user management with our comprehensive tutorial on building a sophisticated LDAP User Control Program.   | C#, ASP.Net API , Angular , LDAP DB  |
 | [🔗 **PLC Real-Time Control & Monitor using Web Application (SLMP) (Mitsubishi PLC)**](https://github.com/madhawapolkotuwa/Real-Time-PLC-Control-Web-Application) | [![Youtube Video](https://img.youtube.com/vi/e1HpK0Os1Pw/0.jpg)](https://www.youtube.com/watch?v=e1HpK0Os1Pw)  | system to control Mitsubishi PLC using a web application and achieved real-time monitoring of the PLC data.   | C#, ASP.Net API , Angular , SLMP  |
-
-
-## ✨ Featured Content  
-### 📖 Articles & Tutorials  
-- [[My Medium Articles](https://medium.com/@madhawapolkotuwa)](#) – Insights on projects, achievements, and lessons learned.  
-### 🎥 Videos  
-- [[My YouTube Channel](https://www.youtube.com/@MP-Coding)](#) – Fun programming tutorials and experiments.  
-
----
-## 📫 Let's Connect!  
-- **LinkedIn**: [[LinkedIn Profile](https://www.linkedin.com/in/madhawa-polkotuwa/)](#)  
-
 
